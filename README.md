@@ -1,0 +1,3 @@
+- SaTisC aka S3xy SaTisC 🥵
+- Frontend Developer 🖥️
+- Unity Dev Team 🔨
