@@ -33,3 +33,15 @@
 
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 
+### &nbsp;
+
+#
+
+<img align="left" alt="Java" width="40px" height="40px" object-fit="cover" style="padding; " src="https://i.pinimg.com/originals/8d/33/78/8d33788e9a866584bb0e69f1c2c2d9f6.gif"/>    
+
+   ### &nbsp; I also happen to know how to use some Design Apps ( Not proffesionaly ) 
+   <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
+
+<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"/>
+
+<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://38.media.tumblr.com/349824182ab40a55df0048ff00dff836/tumblr_nkwqzbAIoo1rnwo2vo1_500.gif"/>
