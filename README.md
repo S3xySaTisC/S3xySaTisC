@@ -1,3 +1,5 @@
+CURRENTLY OFFLINE FROM CODING CAUSE UNIVERSITY ENDED. RETURNING ON OCTOBER
+
 - SaTisC aka S3xy SaTisC
 
 <img src="https://i.pinimg.com/originals/d5/96/3c/d5963c6f0bc206e3723f796e3b54fd6b.gif" width="300" height="300"/>
