@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=F7F7F7&width=435&lines=OFF+TILL+OCTOBER..." alt="Typing SVG" /></a>
 
 
-
 - SaTisC aka S3xy SaTisC
 
 <img src="https://i.pinimg.com/originals/d5/96/3c/d5963c6f0bc206e3723f796e3b54fd6b.gif" width="300" height="300"/>
@@ -20,6 +19,8 @@
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+
+<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg"/>
 
 ### &nbsp;
 
