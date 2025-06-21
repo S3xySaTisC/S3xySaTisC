@@ -44,4 +44,4 @@
 
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://38.media.tumblr.com/349824182ab40a55df0048ff00dff836/tumblr_nkwqzbAIoo1rnwo2vo1_500.gif"/>
+<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png"/>
