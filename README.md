@@ -13,7 +13,7 @@
 
 <img align="left" alt="Java" width="45px" height="45px" object-fit="cover" style="padding; " src="https://img1.picmix.com/output/stamp/normal/9/5/7/9/1099759_c1295.gif"/>    
 
-   ### &nbsp; Languages Learned
+   ### &nbsp; Languages Learned!
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -26,7 +26,7 @@
 
 <img align="left" alt="Java" width="32px" height="32px" style="padding;" src="https://i.gifer.com/ZKZg.gif"/>    
 
-   ### &nbsp; Languages Learning
+   ### &nbsp; Languages Learning!
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -39,9 +39,9 @@
 
 <img align="left" alt="Java" width="40px" height="40px" object-fit="cover" style="padding; " src="https://i.pinimg.com/originals/8d/33/78/8d33788e9a866584bb0e69f1c2c2d9f6.gif"/>    
 
-   ### &nbsp; I also happen to know how to use some Design Apps ( Not proffesionaly ) 
+   ### &nbsp; I’m familiar with various design tools and applications, with intermediate proficiency!
    <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
 
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png"/>
+<img align="left" alt="Java" width="45px" height="45px" right="5px" object-fit="cover" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png"/>
