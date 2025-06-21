@@ -20,8 +20,6 @@
 
 <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg"/>
-
 ### &nbsp;
 
 #
