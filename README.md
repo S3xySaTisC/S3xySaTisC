@@ -1,1 +1,1 @@
-- SaTisC aka S3xy SaTisC 🥵
+- SaTisC aka S3xy SaTisC
