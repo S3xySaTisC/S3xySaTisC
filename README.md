@@ -1,4 +1,9 @@
-CURRENTLY OFFLINE FROM CODING CAUSE UNIVERSITY ENDED. RETURNING ON OCTOBER
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=8749F7&width=435&lines=OFF+TILL+OCTOBER..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=F70000&width=435&lines=OFF+TILL+OCTOBER..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=2EA9F7&width=435&lines=OFF+TILL+OCTOBER..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=F7F7F7&width=435&lines=OFF+TILL+OCTOBER..." alt="Typing SVG" /></a>
+
+
 
 - SaTisC aka S3xy SaTisC
 
