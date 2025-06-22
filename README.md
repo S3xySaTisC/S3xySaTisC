@@ -11,37 +11,37 @@
 
 #
 
-<img align="left" alt="Java" width="45px" height="45px" object-fit="cover" style="padding; " src="https://img1.picmix.com/output/stamp/normal/9/5/7/9/1099759_c1295.gif"/>    
+<img align="left"  alt="Header1" width="45px" height="45px" object-fit="cover" style="padding; " src="https://img1.picmix.com/output/stamp/normal/9/5/7/9/1099759_c1295.gif"/>    
 
    ### &nbsp; Languages Learned!
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="css" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="html" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="c" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
 ### &nbsp;
 
 #
 
-<img align="left" alt="Java" width="32px" height="32px" style="padding;" src="https://i.gifer.com/ZKZg.gif"/>    
+<img align="left"  alt="Header2" width="32px" height="32px" style="padding;" src="https://i.gifer.com/ZKZg.gif"/>    
 
    ### &nbsp; Languages Learning!
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="js" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="python" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
+<img align="left" alt="lua" width="45px" height="45px" right="5px" style="padding;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 
 ### &nbsp;
 
 #
 
-<img align="left" alt="Java" width="40px" height="40px" object-fit="cover" style="padding; " src="https://i.pinimg.com/originals/8d/33/78/8d33788e9a866584bb0e69f1c2c2d9f6.gif"/>    
+<img align="left" alt="Header3" width="40px" height="40px" object-fit="cover" style="padding; " src="https://i.pinimg.com/originals/8d/33/78/8d33788e9a866584bb0e69f1c2c2d9f6.gif"/>    
 
    ### &nbsp; I’m familiar with various design tools and applications, with intermediate proficiency!
-   <img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
+   <img align="left" alt="ps" width="45px"  height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"/>
+<img align="left" alt="aef" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"/>
 
-<img align="left" alt="Java" width="45px" height="45px" right="5px" object-fit="cover" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png"/>
+<img align="left" alt="gimp" width="45px" height="45px"  right="5px" object-fit="cover" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png"/>
