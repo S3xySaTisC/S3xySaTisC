@@ -55,11 +55,23 @@
 
 #
 
-<img align="left" alt="Header3" width="40px" height="40px" object-fit="cover" style="padding; " src="https://i.pinimg.com/originals/ac/7f/7e/ac7f7e64678e2f95ebd56cf30719fb0b.gif"/>    
+<img align="left" alt="Header3" width="40px" height="40px" object-fit="cover" style="padding; " src="https://i.pinimg.com/originals/7a/bf/87/7abf87d2c9f162829e9f59eb139effcb.gif"/>    
 
    ### &nbsp; My Coding Toolkits for Uni!
+   <img align="left" alt="aef" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"/>
+   
    <img align="left" alt="vs" width="45px"  height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
-<img align="left" alt="aef" width="45px" height="45px" right="5px" style="padding;" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"/>
 
+### &nbsp;
 
+# 
+
+<img align="left" alt="Header3" width="40px" height="40px" object-fit="cover" style="padding; " src="https://i.pinimg.com/originals/c5/a1/47/c5a14764ca497fd02f2bfaba3695efe2.gif"/>    
+
+   ### &nbsp;  Mathematical fields I have studied! 
+- Calculus I , II
+- Linear Algebra I , II
+- Number Theory (Θεωρία αριθμών)
+- Αnalytic Geometry
+- Θεμελιώδεις Έννοιες Μαθηματικών
