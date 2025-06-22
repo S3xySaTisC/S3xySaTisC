@@ -3,12 +3,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=2EA9F7&width=435&lines=OFF+TILL+OCTOBER..." alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=F7F7F7&width=435&lines=OFF+TILL+OCTOBER..." alt="Typing SVG" /></a>
 
+[Se blepw aderfee <3]: #
+
 <img align="left"  alt="Header1" width="45px" height="45px" object-fit="fix" style="padding; " src="https://img1.picmix.com/output/stamp/normal/9/5/7/9/1099759_c1295.gif"/> 
 
    ### &nbsp; <ins> SaTisC aka S3xy SaTisC ! ! ! </ins>
 
 <img src="https://i.pinimg.com/originals/d5/96/3c/d5963c6f0bc206e3723f796e3b54fd6b.gif" width="300" height="300"/>
-
 
 #
 
