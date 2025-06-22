@@ -5,7 +5,7 @@
 
 <img align="left"  alt="Header1" width="45px" height="45px" object-fit="fix" style="padding; " src="https://img1.picmix.com/output/stamp/normal/9/5/7/9/1099759_c1295.gif"/> 
 
-   ### &nbsp; SaTisC aka S3xy SaTisC ! ! ! <strong> </strong> 
+   ### &nbsp; <ins> SaTisC aka S3xy SaTisC ! ! ! </ins>
 
 <img src="https://i.pinimg.com/originals/d5/96/3c/d5963c6f0bc206e3723f796e3b54fd6b.gif" width="300" height="300"/>
 
